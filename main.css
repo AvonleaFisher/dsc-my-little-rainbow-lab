@@ -1,3 +1,48 @@
+<head>
+
+  <link rel="stylesheet" type="text/css" href="main.css">
+
+</head>
+
+<div id="red"> {
+  border-top-color: #f00;
+}
+</div>
+
+<div id="orange"> {
+  border-top-color: #ffa500;
+}
+</div>
+
+<div id="yellow"> {
+  border-top-color: #ff0;
+}
+</div>
+
+<div id="green"> {
+  border-top-color: #00bc3f;
+}
+</div>
+
+</div>
+
+<div id="blue"> {
+  border-top-color: #06f;
+}
+</div>
+
+
+<div id="indigo"> {
+  border-top-color: #8a2be2;
+}
+</div>
+
+
+<div id="violet"> {
+  border-top-color: ##d300c9;
+}
+</div>
+
 div {
   border: 20px solid #000; /* this is short hand for setting 
                             the border's width, its type, and color */
